@@ -25,12 +25,19 @@ It also provides a **modern dashboard interface** for:
 ## 🎯 🔥 Key Features
 
 ✅ Real-time prediction using sliders
+
 ✅ Upload CSV & predict multiple records
+
 ✅ Download prediction results
+
 ✅ Interactive data visualization
+
 ✅ Correlation heatmap
+
 ✅ Feature importance graph
+
 ✅ Clean and modern UI (Streamlit)
+
 ✅ Organized tabs (Dashboard / Analytics / Upload)
 
 ---
@@ -38,13 +45,18 @@ It also provides a **modern dashboard interface** for:
 ## 🛠️ 🧠 Tech Stack
 
 * **Python**
+  
 * **Streamlit** (Frontend Dashboard)
+  
 * **Scikit-learn** (Machine Learning Model)
+  
 * **Pandas & NumPy** (Data Processing)
+  
 * **Matplotlib & Seaborn** (Visualization)
+  
 * **Joblib** (Model Saving)
 
----
+
 
 ## 📂 📁 Project Structure
 
@@ -71,7 +83,6 @@ AI-Predictive-Maintenance/
 ├── requirements.txt
 └── README.md
 ```
-
 ---
 
 ## ⚙️ 🚀 Installation & Setup
