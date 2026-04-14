@@ -90,7 +90,7 @@ AI-Predictive-Maintenance/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/sakshimaurya2306-commits/AI-Predictive-Maintenance.git
+git clone https://github.com/sakshimaurya2306-commits/AI-Predictive-Maintenance-Dashboard.git
 cd AI-Predictive-Maintenance
 ```
 
